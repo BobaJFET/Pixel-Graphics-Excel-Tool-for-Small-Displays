@@ -9,6 +9,6 @@ Note: This code is currently set up for monochrome displays, where every pixel i
 
 2.) Save the excel file, enter the path of the file into the quotes in the code. 
 
-3.) Run and it will output all of the drawPixel() calls for your graphic. 
+3.) Run and it will output all of the drawPixel() and drawLine() calls for your graphic. 
 
-4.) Copy and paste the drawPixel() calls into your arduino code. 
+4.) Copy and paste the drawPixel() and drawLine() calls into your arduino code. 
