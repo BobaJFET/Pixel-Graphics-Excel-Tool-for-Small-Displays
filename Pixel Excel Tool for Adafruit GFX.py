@@ -1,4 +1,3 @@
-#a helpful article I used as reference for openpyxl: https://www.geeksforgeeks.org/reading-excel-file-using-python/
 #Adafruit GFX website: https://learn.adafruit.com/adafruit-gfx-graphics-library/overview
 
 import openpyxl
