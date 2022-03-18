@@ -68,6 +68,6 @@ for y in range(1, row + 1):
                 x1 = x
                
         elif color.rgb == '00000000' and newLine == False: #once we encounter an 'off' pixel, our line has ended, and we draw the line from x0 to x1
-            print(displayObject,".drawLine(",x0 - 1,",", y - 1, ",",x1 - 1,",",y - 1,",1)")
+            print(displayObject,".drawLine(",x0 - 1,",", y - 1, ",",x1 - 1,",",y - 1,",1);")
             newLine = True
                         
